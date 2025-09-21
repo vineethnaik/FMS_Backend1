@@ -1,0 +1,10 @@
+com\agrizen\model\Login.class
+com\agrizen\model\Payment.class
+com\agrizen\repository\LoginRepository.class
+com\agrizen\repository\PaymentRepository.class
+com\agrizen\controller\PaymentController.class
+com\agrizen\controller\RegisterController.class
+com\agrizen\model\Register.class
+com\agrizen\repository\RegisterRepository.class
+com\agrizen\AgrizenBackendApplication.class
+com\agrizen\controller\LoginController.class
